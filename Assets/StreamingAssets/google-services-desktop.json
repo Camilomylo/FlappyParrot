@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "727216975631",
+    "firebase_url": "https://sid-servidor-juego-default-rtdb.firebaseio.com",
+    "project_id": "sid-servidor-juego",
+    "storage_bucket": "sid-servidor-juego.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727216975631:android:56c3a79163f44feebbd87a",
+        "android_client_info": {
+          "package_name": "com.camilostudios.birdflappy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuiDGzhvBUA4x1BnOFYtvssh9m5MP8zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
